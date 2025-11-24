@@ -17,7 +17,7 @@ Profile README for Shark-Bot-X
 ## 🚀 About Me
 
 * 🎓 B.Tech Mathematics & Computing @ ABV-IIIT Gwalior  
-* 💼 Intern @ AIGETAI  
+* 💼 Ex-Intern @ AIGETAI  , Open Source Contributor @ Gitmesh
 * 🧠 Exploring **AI/ML, MLOps & AI Agents**  
 * 🌱 Open to collaborate on cool AI projects  
 * ⚡ Fun fact: I am not perfect, but I’m a **limited edition** ✨  
