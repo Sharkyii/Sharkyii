@@ -2,7 +2,7 @@
 Profile README for Shark-Bot-X
 -->
 
-## Hi I am SHARK 
+## Hi I am Sneh 
 
 
 <p align="center">
