@@ -1,9 +1,14 @@
+<!--
+Profile README for Sharkyii
+Swimming through code like a shark through water 🦈
+-->
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B%2C+I'm+Sharkyii!+%F0%9F%A6%88;Diving+Deep+into+AI+%26+Machine+Learning;Building+Solutions+One+Commit+at+a+Time" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20the%20Deep%20End&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20Shark%20Territory&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </p>
 
 <p align="center">
@@ -59,6 +64,18 @@ class Sharkyii:
 shark = Sharkyii()
 shark.say_hello()
 ```
+
+<details>
+<summary>🎯 Fun Facts About Me</summary>
+<br>
+
+- 🦈 **Why Sharkyii?** Like a shark, I never stop moving forward in tech
+- 🥛 **Powered by:** Chaas (it's a lifestyle, not just a drink)
+- 🎮 **When not coding:** Probably thinking about code
+- 💡 **Philosophy:** "Code is poetry written for machines to execute"
+- 🌊 **Motto:** Keep swimming, keep learning, keep growing
+
+</details>
 
 ---
 
@@ -161,29 +178,13 @@ shark.say_hello()
 
 ## 💼 Professional Journey
 
-```mermaid
-graph LR
-    A[🎓 IIIT Gwalior] -->|Learning| B[💻 Python Development]
-    B -->|Growing| C[🤖 AI/ML Expertise]
-    C -->|Interning| D[🚀 AIGETAI]
-    C -->|Contributing| E[🌍 Gitmesh OSS]
-    D -->|Building| F[🦈 Sharkyii Today]
-    E -->|Building| F
-    F -->|Seeking| G[🎯 New Opportunities]
-```
-
----
-
-## 📈 Coding Activity
-
 <div align="center">
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+**🎓 Student** → **💻 Python Developer** → **🤖 AI/ML Enthusiast** → **🚀 Seeking Opportunities**
+
+`IIIT Gwalior` • `AIGETAI Intern` • `Gitmesh Contributor` • `Open for Collaborations`
 
 </div>
-
----
 
 ## 🤝 Let's Connect & Collaborate
 
@@ -216,17 +217,7 @@ graph LR
 | NLP Techniques | Web Applications | Problem Solving |
 | Computer Vision | API Development | Team Collaboration |
 
-</div>
-
----
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<div align="center">
+### 🌊 "In the ocean of code, be the shark that never stops moving forward" 🦈
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
