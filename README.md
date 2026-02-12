@@ -156,25 +156,6 @@ shark.say_hello()
   <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Sharkyii&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sharkyii&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-</div>
-
----
-
-## 🌊 Contribution Wave
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/Sharkyii/Sharkyii/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 ## 💼 Professional Journey
 
@@ -195,11 +176,11 @@ shark.say_hello()
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sharkyii)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
-### 💡 Open to:
-- 🤝 Collaboration on AI/ML projects
-- 💼 Internship opportunities
-- 🌟 Open source contributions
-- 📚 Knowledge sharing & mentorship
+## 💡 Open to:
+🤝 Collaboration on AI/ML projects
+💼 Internship opportunities
+🌟 Open source contributions
+📚 Knowledge sharing & mentorship
 
 </div>
 
