@@ -184,8 +184,6 @@ shark.say_hello()
 
 `IIIT Gwalior` • `AIGETAI Intern` • `Gitmesh Contributor` • `Open for Collaborations`
 
-</div>
-
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
@@ -216,6 +214,7 @@ shark.say_hello()
 | Deep Learning | Biometric Systems | Leadership Skills |
 | NLP Techniques | Web Applications | Problem Solving |
 | Computer Vision | API Development | Team Collaboration |
+
 
 ### 🌊 "In the ocean of code, be the shark that never stops moving forward" 🦈
 
