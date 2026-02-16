@@ -16,16 +16,12 @@
 
 ---
 
-## 🦈 About This Shark
+## About 
 
 ```python
 class Sharkyii:
-    """
-    A shark navigating the vast ocean of technology 🌊
-    """
     def __init__(self):
         self.name = "Sneh Kansagara"
-        self.alias = "Sharkyii"
         self.current_location = "ABV-IIIT Gwalior 🎓"
         self.education = "B.Tech in Mathematics & Computing"
         self.role = ["Python Developer", "AI Enthusiast", "Problem Solver"]
@@ -37,35 +33,12 @@ class Sharkyii:
         self.interests = ["Biometric Systems", "Neural Networks", "Web Development"]
         self.fuel = "Chaas 🥛"  # Never code on empty stomach!
         self.mindset = "Always keep swimming... and coding! 🦈"
-    
-    def current_status(self):
-        return {
-            "hunting_for": "Experience & Opportunities",
-            "building": "AI-powered solutions",
-            "exploring": "The depths of Machine Learning",
-            "available_for": ["Collaborations", "Open Source", "Internships"]
-        }
-    
+
     def say_hello(self):
-        print("🦈 Sharkyii here! Let's build something awesome together!")
+        print("Sneh here! Let's build something awesome ")
 
 shark = Sharkyii()
-shark.say_hello()
-```
-
-<details>
-<summary>🎯 Fun Facts About Me</summary>
-<br>
-
-- 🦈 **Why Sharkyii?** Like a shark, I never stop moving forward in tech
-- 🥛 **Powered by:** Chaas (it's a lifestyle, not just a drink)
-- 🎮 **When not coding:** Probably thinking about code
-- 💡 **Philosophy:** "Code is poetry written for machines to execute"
-- 🌊 **Motto:** Keep swimming, keep learning, keep growing
-
-</details>
-
----
+shark.say_hello
 
 ## 🌊 Featured Projects
 
