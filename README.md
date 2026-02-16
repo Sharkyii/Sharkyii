@@ -39,7 +39,7 @@ class Sharkyii:
 
 shark = Sharkyii()
 shark.say_hello
-
+```
 ## 🌊 Featured Projects
 
 <div align="center">
