@@ -1,23 +1,3 @@
-
-<p align="center">
-  <a href="https://github.com/Sharkyii?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/Sharkyii?style=for-the-badge&logo=github&color=00D9FF&labelColor=1a1a2e">
-  </a>
-  <a href="https://github.com/Sharkyii">
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Sharkyii&style=for-the-badge&color=00D9FF&labelColor=1a1a2e">
-  </a>
-  <a href="mailto:snehkansagara@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-snehkansagara%40gmail.com-00D9FF?style=for-the-badge&logo=gmail&labelColor=1a1a2e">
-  </a>
-  <a href="https://www.linkedin.com/in/sneh-kansagara-b61362312/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-00D9FF?style=for-the-badge&logo=linkedin&labelColor=1a1a2e">
-  </a>
-</p>
-
----
-
-## About 
-
 ```python
 class Sharkyii:
     def __init__(self):
